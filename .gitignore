@@ -1,4 +1,5 @@
 node_modules/
 Charon/.idea
 Web/.idea
-
+.DS_Store
+Charon/bin

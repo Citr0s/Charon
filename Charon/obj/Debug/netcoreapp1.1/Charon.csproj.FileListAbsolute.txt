@@ -1,0 +1,10 @@
+/Users/miloszdura/work/Charon/Charon/bin/Debug/netcoreapp1.1/Charon.deps.json
+/Users/miloszdura/work/Charon/Charon/bin/Debug/netcoreapp1.1/Charon.runtimeconfig.json
+/Users/miloszdura/work/Charon/Charon/bin/Debug/netcoreapp1.1/Charon.runtimeconfig.dev.json
+/Users/miloszdura/work/Charon/Charon/bin/Debug/netcoreapp1.1/Charon.dll
+/Users/miloszdura/work/Charon/Charon/bin/Debug/netcoreapp1.1/Charon.pdb
+/Users/miloszdura/work/Charon/Charon/obj/Debug/netcoreapp1.1/Charon.csprojResolveAssemblyReference.cache
+/Users/miloszdura/work/Charon/Charon/obj/Debug/netcoreapp1.1/Charon.csproj.CoreCompileInputs.cache
+/Users/miloszdura/work/Charon/Charon/obj/Debug/netcoreapp1.1/Charon.AssemblyInfo.cs
+/Users/miloszdura/work/Charon/Charon/obj/Debug/netcoreapp1.1/Charon.dll
+/Users/miloszdura/work/Charon/Charon/obj/Debug/netcoreapp1.1/Charon.pdb
